@@ -1,4 +1,4 @@
-Alex Hui, freshman at tOSU
+Alex Hui, freshman at tOSU <br />
 Dublin Scioto High School 2024
 <!---
 AluiQT/AluiQT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
